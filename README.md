@@ -362,3 +362,4 @@ Cenários cobertos:
 - [ ] Observabilidade com Micrometer + Prometheus + Grafana
 - [ ] `@Value` para externalizar o remetente de email (`emailSender`)
 - [ ] Variáveis de ambiente no `user-service/application.yaml` com `${VAR:default}`
+- [ ] Documentação da API com OpenApi
